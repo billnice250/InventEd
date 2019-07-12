@@ -8,3 +8,5 @@ This is an online platform intended to bring together young brilliant minds acro
  Goal - Having a hands-on youth creating real-life solutions.
  
  Our Target - African Youth
+ 
+### for the password on the contact me directly
