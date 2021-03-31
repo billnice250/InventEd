@@ -1,0 +1,3 @@
+email for super admin is superadmin@gmail.com, password is hehefellows2016.
+Remember to import database first.
+superadmin account is built in account.

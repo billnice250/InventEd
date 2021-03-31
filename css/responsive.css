@@ -1,0 +1,29 @@
+@media (max-width: 768px){
+  .content {
+	padding: 40% 0 0;
+	}
+}
+
+@media (max-width: 603px){
+#tf-menu.navbar-default {
+	background-color: #1b333f;
+	}
+#tf-works li.pull-right, #tf-works li.pull-left {
+    margin-top: 10px;
+    float: none !important;
+    text-align: center;
+    display: block;
+}
+label{
+    float: none !important
+}
+
+.hover-bg .hover-text {
+    padding: 12% 10%;
+}
+}
+@media (max-width: 360px){
+.hover-bg .hover-text {
+    padding: 22% 10%;
+}
+}
