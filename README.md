@@ -9,4 +9,3 @@ This is an online platform intended to bring together young brilliant minds acro
  
  Our Target - African Youth
  
-### !!! For the password on the codes contact me directly !!!
