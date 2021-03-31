@@ -9,3 +9,5 @@ This is an online platform intended to bring together young brilliant minds acro
  
  Our Target - African Youth
  
+#The initial version of this project was developed at HEHELABS(Rwanda-Kigali) by me and a small team of my tech enthusiast friends
+#Contact me directly for more informations
